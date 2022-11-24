@@ -1,0 +1,2 @@
+class TodoWithoutNameException(Exception):
+    pass
